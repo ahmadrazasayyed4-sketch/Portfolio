@@ -38,7 +38,7 @@ body {
 }
 
 .navbar .logo span {
-  color: #ff3366;
+  color: #f7f7f7;
 }
 
 .navbar nav ul {
@@ -150,7 +150,7 @@ section h2::after {
 }
 
 .about-text h3 {
-  color: #ff3366;
+  color: #ffffff;
   margin-bottom: 15px;
 }
 
@@ -180,7 +180,7 @@ section h2::after {
 }
 
 .skill-card h3 {
-  color: #ff3366;
+  color: #ffffff;
   margin-bottom: 10px;
 }
 
@@ -205,7 +205,7 @@ section h2::after {
 }
 
 .exp-card h3 {
-  color: #ff3366;
+  color: #ffffff;
   margin-bottom: 5px;
 }
 
@@ -245,7 +245,7 @@ section h2::after {
 }
 
 .project-card h3 {
-  color: #ff3366;
+  color: #ffffff;
   margin-bottom: 10px;
 }
 
@@ -268,7 +268,7 @@ section h2::after {
 }
 
 .edu-item h3 {
-  color: #ff3366;
+  color: #ffffff;
   margin-bottom: 5px;
 }
 
